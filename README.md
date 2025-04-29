@@ -1,4 +1,4 @@
-Welcome to my first web portfolio! This project showcases my:
+## Welcome to my first web portfolio! This project showcases my:
 
 - Achieved (Quizzes, Projects, Exam & Reflection) 
 - About Me 

@@ -13,7 +13,7 @@
 - Tailwind
 
 ## Live Demo
-[Visit the website here!](https://github.com/chriseng08)
+[Visit the website here!](https://chriseng08.github.io/Web-Portfolio/)
 
 ## Author
 - [Kristine Recapente](https://github.com/chriseng08) 
